@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield][https://github.com/othneildrew/Best-README-Template/graphs/contributors]
+[![Contributors][contributors-shield]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
