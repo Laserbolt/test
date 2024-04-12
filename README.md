@@ -23,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -58,18 +57,15 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="###Requirments">Requirments</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="##ScreenShots">ScreenShots</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -90,59 +86,62 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Requirments
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Bluej(Windows only) get free a download at :  
+   [[Bluej Official Website]](https://www.bluej.org)  
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/laserbolt/Bluej-Dark-Theme.git
+1\. Click on `Code` at the top-right corner of this repository page and select `Download ZIP` from the dropdown menu.  
+2. Go to your `Downloads` folder, right-click on `Bluej-Dark-Theme-main.zip` and select `Extract here`.  
+3. Now go to `Downloads` > `Bluej-Dark-Theme-hub` > `Dark Theme` or any other theme folder from the available options.  
+4. For installation double click to open the `Installation.bat` file  
+5. If you need the default theme of BlueJ, you can follow the same steps but select `Default theme` in step-3.  
+<br>
+<br>
+   ***OR***  
+<br>
+<br>
+> [!WARNING]
+> This is only advisable for older computers or if the above method fails
+
+1\. Click on `Code` at the top-right corner of this repository page and select `download ZIP` from the dropdown menu.  
+2. Go to your` Downloads` folder, right-click on `Bluej-Dark-Theme-main.zip` and select `Extract here`.  
+3. Now go to `Downloads` > `Bluej-Dark-Theme-hub` > `Dark Theme` > `stylesheets` or any other theme folder from the available options.  
+4. Select all files in the theme folder and select Copy.  
+5. Go to :  
+   ```bat
+   C:\Program Files\BlueJ\lib\stylesheets
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+and select `Paste`.  
+6. Choose to `Replace the existing files with the same names in this folder`, and click on `Continue` if required.  
+7. Restart Bluej.
+8. If you need the default theme of BlueJ, you can follow the above procedure and select `Default theme` in step-3.
+
 
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## ScreenShots
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Default Theme  
+![Default Theme Screenshot](https://github.com/Laserbolt/Bluej-Dark-Theme/assets/160458697/5a471ed5-88c6-4459-9d69-ec891f2be617)  
+  
+Dark Theme  
+![Dark Theme Screenshot](https://github.com/Laserbolt/Bluej-Dark-Theme/assets/160458697/f78acad7-83e3-4145-ba89-f0b7ea2892dc)  
+  
+High Contrast Theme  
+![High Contrast Screenshot](https://github.com/Laserbolt/Bluej-Dark-Theme/assets/160458697/c6d5397a-e792-4e75-93e1-84c849e11033)
+  
+Rose Theme
+![Rose Theme Screenshot](https://github.com/Laserbolt/Bluej-Dark-Theme/assets/160458697/e2fcc71c-f7c8-4240-8cb4-7b17c2d98593)
 
 
 
@@ -217,9 +216,7 @@ Project Link: [https://github.com/laserbolt/Bluej-Dark-Theme](https://github.com
 [issues-url]: https://github.com/laserbolt/Bluej-Dark-Theme/issues
 [license-shield]: https://img.shields.io/github/license/laserbolt/Bluej-Dark-Theme.svg?style=for-the-badge
 [license-url]: https://github.com/laserbolt/Bluej-Dark-Theme/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/Laserbolt/Bluej-Dark-Theme/assets/160458697/ce2f802a-ea28-4198-a089-c97018c3b0dc
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
