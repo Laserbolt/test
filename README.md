@@ -26,7 +26,7 @@
     <br />
     <a href="https://github.com/laserbolt/Bluej-Dark-Theme"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/laserbolt/Bluej-Dark-Theme">View Demo</a>
+    <a href="#getting-started">View Demo</a>
     ·
     <a href="https://github.com/laserbolt/Bluej-Dark-Theme/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
