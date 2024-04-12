@@ -24,13 +24,15 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<br>
+<br>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/laserbolt/Bluej-Dark-Theme">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Laserbolt/test/assets/160458697/2338a4b1-3a98-443e-acf4-fc44ffe1a0ed" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Bluej Theme Hub</h3>
@@ -38,8 +40,8 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/laserbolt/Bluej-Dark-Theme"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://github.com/laserbolt/Bluej-Dark-Theme"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://github.com/laserbolt/Bluej-Dark-Theme">View Demo</a>
     ·
@@ -79,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `laserbolt`, `Bluej-Dark-Theme`, `twitter_handle`, `linkedin_username`, `gmail`, `laserbolt9`, `Bluej Theme Hub`, `project_description`
 
