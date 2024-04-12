@@ -85,9 +85,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `laserbolt`, `Bluej-Dark-Theme`, `twitter_handle`, `linkedin_username`, `laserbolt@gmail.com_client`, `laserbolt@gmail.com`, `Bluej Theme Hub`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `laserbolt`, `Bluej-Dark-Theme`, `twitter_handle`, `linkedin_username`, `gmail`, `laserbolt9`, `Bluej Theme Hub`, `project_description`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -102,7 +101,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -117,7 +115,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@laBluej-Dark-Theme -g
+  npm install npm@latest -g
   ```
 
 ### Installation
@@ -136,7 +134,6 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -147,7 +144,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -161,7 +157,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/laserbolt/Bluej-Dark-Theme/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -179,7 +174,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -188,18 +182,16 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - laserbolt@gmail.com@laserbolt@gmail.com_client.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - laserbolt9@gmail.com
 
 Project Link: [https://github.com/laserbolt/Bluej-Dark-Theme](https://github.com/laserbolt/Bluej-Dark-Theme)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -211,7 +203,6 @@ Project Link: [https://github.com/laserbolt/Bluej-Dark-Theme](https://github.com
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
