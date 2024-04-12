@@ -33,8 +33,10 @@
     <a href="https://github.com/laserbolt/Bluej-Dark-Theme/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
+<br>
+<br>
+<br>
+<br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
