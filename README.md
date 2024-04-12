@@ -1,23 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -81,7 +64,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+<br>
+<br>
+<div align="center">
+  <a href="#screenshots">
+    <img src="https://github.com/Laserbolt/test/assets/160458697/a3c3a39e-776f-4a31-8b06-c49ce7bc08dd"  width="800" height="428">
+  </a>
+</div>
+<br>
+<br>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `laserbolt`, `Bluej-Dark-Theme`, `twitter_handle`, `linkedin_username`, `gmail`, `laserbolt9`, `Bluej Theme Hub`, `project_description`
 
@@ -216,4 +207,4 @@ Project Link: [https://github.com/laserbolt/Bluej-Dark-Theme](https://github.com
 [issues-url]: https://github.com/laserbolt/Bluej-Dark-Theme/issues
 [license-shield]: https://img.shields.io/github/license/laserbolt/Bluej-Dark-Theme.svg?style=for-the-badge
 [license-url]: https://github.com/laserbolt/Bluej-Dark-Theme/blob/master/LICENSE.txt
-[product-screenshot]: https://github.com/Laserbolt/Bluej-Dark-Theme/assets/160458697/ce2f802a-ea28-4198-a089-c97018c3b0dc
+[product-screenshot]: https://github.com/Laserbolt/test/assets/160458697/a3c3a39e-776f-4a31-8b06-c49ce7bc08dd
